@@ -56,6 +56,15 @@ The server listens on port `8080`. For detailed setup paths, supported operating
 
 - [Getting Started](./docs/getting-started.md)
 - [Hosted Quick Start Docs](https://docs.endee.io/quick-start)
+- ## Demo
+
+Run the application locally:
+
+streamlit run app/app.py
+
+Then open in browser:
+
+http://localhost:8501
 
 ## Use Cases
 
